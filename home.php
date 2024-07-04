@@ -130,6 +130,6 @@ if(isset($_POST['add_to_cart'])){
 
 <!-- custom js file link  -->
 <script src="js/script.js"></script>
-
+<script src="//code.tidio.co/uf2yrfq6ln1jmsukeicblhoqmgs3tzlb.js" async></script>
 </body>
 </html>

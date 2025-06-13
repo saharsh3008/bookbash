@@ -1,6 +1,6 @@
 This project is a development of a book buying platform for people, with access to both admin and consumer page  
 There are added features for book selection, enquiry, cart check-out, etc  
-The platform is solely build on PHP language
+The platform is solely build on PHP, CSS and JavaScript language
 
 
 ![image](https://github.com/saharsh3008/wedev2/assets/124720803/1eefecc0-c97c-428a-abee-330496cfe139)
